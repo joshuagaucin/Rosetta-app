@@ -2,6 +2,7 @@ import React from "react"
 import English from "../languages/English"
 import Japanese from "../languages/Japanese"
 import "./DropdownButt.css"
+import "./home.css"
 import Spanish from "../languages/Spanish";
 class Home extends React.Component {
   constructor() {
@@ -17,8 +18,9 @@ class Home extends React.Component {
       
       if (this.state.language === "en") {
         return (
-          <div>
+          <div className="container">
             <English />
+            
             <div class="dropdown">
               <button class="dropbtn">Languages</button>
               <div class="dropdown-content">
