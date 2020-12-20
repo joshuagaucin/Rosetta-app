@@ -5,7 +5,7 @@ class Spanish extends React.Component {
     return (
       <div className="container">
         <h1>Hola Mundo</h1>
-        <div className="spanish-img"></div>
+        
         <p>
           Mi nombre es Joshua Gaucin, soy un ingeniero de softwares apasionado
           de los idiomas, ya sean de computadora o humanos. Trabajar para
