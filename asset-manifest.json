@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Rosetta-app/static/css/main.d1f8b240.chunk.css",
+    "main.js": "/Rosetta-app/static/js/main.8e35ff2c.chunk.js",
+    "main.js.map": "/Rosetta-app/static/js/main.8e35ff2c.chunk.js.map",
+    "runtime-main.js": "/Rosetta-app/static/js/runtime-main.68d8f568.js",
+    "runtime-main.js.map": "/Rosetta-app/static/js/runtime-main.68d8f568.js.map",
+    "static/js/2.ae0e6038.chunk.js": "/Rosetta-app/static/js/2.ae0e6038.chunk.js",
+    "static/js/2.ae0e6038.chunk.js.map": "/Rosetta-app/static/js/2.ae0e6038.chunk.js.map",
+    "static/js/3.12cbebd6.chunk.js": "/Rosetta-app/static/js/3.12cbebd6.chunk.js",
+    "static/js/3.12cbebd6.chunk.js.map": "/Rosetta-app/static/js/3.12cbebd6.chunk.js.map",
+    "index.html": "/Rosetta-app/index.html",
+    "static/css/main.d1f8b240.chunk.css.map": "/Rosetta-app/static/css/main.d1f8b240.chunk.css.map",
+    "static/js/2.ae0e6038.chunk.js.LICENSE.txt": "/Rosetta-app/static/js/2.ae0e6038.chunk.js.LICENSE.txt",
+    "static/media/english.css": "/Rosetta-app/static/media/english.4a2ece43.jpg",
+    "static/media/japanese.css": "/Rosetta-app/static/media/japanese.965323c5.jpg",
+    "static/media/spanish.css": "/Rosetta-app/static/media/spanish.765a8b81.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.68d8f568.js",
+    "static/js/2.ae0e6038.chunk.js",
+    "static/css/main.d1f8b240.chunk.css",
+    "static/js/main.8e35ff2c.chunk.js"
+  ]
+}
