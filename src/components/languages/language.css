@@ -1,6 +1,8 @@
 .intro{
     width:50vw;
     text-align: left;
+     margin:0;
+    padding:15px;
 }
 .container {
     display: flex;
@@ -11,6 +13,8 @@
 
 h1 {
     font-size: 40px;
+    margin:0;
+    padding:0;
 }
 p{
     font-size: 25px;

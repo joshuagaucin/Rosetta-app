@@ -1,16 +1,4 @@
-.container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-}
 
-h1 {
-    font-size: 50px;
-}
-p{
-    font-size: 25px;
-}
 .spanish-img {
     background: url(./images/spanish.jpg);
     background-size: cover;
