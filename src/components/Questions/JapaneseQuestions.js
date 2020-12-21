@@ -8,17 +8,17 @@ export default function App() {
       answerOptions: [
         { answerText: "さようなら", isCorrect: false },
         { answerText: "おやすみなさい", isCorrect: false },
-        { answerText: "こんばんわ", isCorrect: false },
-        { answerText: "おはいよございます。", isCorrect: true },
+        { answerText: "こんばんは", isCorrect: false },
+        { answerText: "おはようございます。", isCorrect: true },
       ],
     },
     {
-      questionText: "どの文が正しくありません",
+      questionText: "どの文が正しくありませんが",
 
       answerOptions: [
-        { answerText: "いぬがだいｓきですよ", isCorrect: false },
+        { answerText: "いぬが大好きですよ", isCorrect: false },
         { answerText: "ですか元気", isCorrect: true },
-        { answerText: "一人の兄弟います.", isCorrect: false },
+        { answerText: "兄弟がひとりいます.", isCorrect: false },
         { answerText: "お腹が空いた", isCorrect: false },
       ],
     },
