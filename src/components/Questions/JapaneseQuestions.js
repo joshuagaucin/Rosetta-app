@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-
+import "./questions.css";
 export default function App() {
   const questions = [
     {
@@ -59,7 +59,7 @@ export default function App() {
     }
   };
   return (
-    <div className="app">
+    <div className="quiz">
       {showScore ? (
         <div className="score-section">
           得点した　{score} から {questions.length}
@@ -77,6 +77,7 @@ export default function App() {
           <div className="answer-section">
             {questions[currentQuestion].answerOptions.map((answerOption) => (
               <button
+                className="answerButton"
                 onClick={() => handleAnswerOptionClick(answerOption.isCorrect)}
               >
                 {answerOption.answerText}

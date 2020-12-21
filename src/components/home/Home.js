@@ -13,14 +13,17 @@ class Home extends React.Component {
   }
   
   render() {
-
+      
+        
+    
       
       
       if (this.state.language === "en") {
         return (
           <div className="container">
+              
             <English />
-            
+             
             <div class="dropdown">
               <button class="dropbtn">Languages</button>
               <div class="dropdown-content">

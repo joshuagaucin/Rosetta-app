@@ -1,0 +1,37 @@
+.quiz{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction:column;
+    margin: 20px;
+}
+.score-section{
+
+}
+.question-section{
+
+}
+.question-count{
+text-align: right;
+}
+.question-text{
+font-size: 20px;
+}
+.answer-section{
+display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction:column;
+    margin:20px;
+   
+}
+.answerButton{
+   margin: 5px;
+   
+    background: white;
+    align-self: left;
+}
+.answerButton:hover{
+    background: black;
+    color: white;
+}

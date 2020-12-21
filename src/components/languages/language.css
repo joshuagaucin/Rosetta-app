@@ -1,3 +1,7 @@
+.intro{
+    width:50vw;
+    text-align: left;
+}
 .container {
     display: flex;
     flex-direction: column;
@@ -6,15 +10,8 @@
 }
 
 h1 {
-    font-size: 50px;
+    font-size: 40px;
 }
 p{
     font-size: 25px;
-}
-.spanish-img {
-    background: url(./images/spanish.jpg);
-    background-size: cover;
-    width: 70vw;
-    height:40vh;
-
 }
