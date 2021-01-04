@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Rosetta-app/static/css/main.34cdefb1.chunk.css",
-    "main.js": "/Rosetta-app/static/js/main.ee0380cf.chunk.js",
-    "main.js.map": "/Rosetta-app/static/js/main.ee0380cf.chunk.js.map",
-    "runtime-main.js": "/Rosetta-app/static/js/runtime-main.918bd2d3.js",
-    "runtime-main.js.map": "/Rosetta-app/static/js/runtime-main.918bd2d3.js.map",
-    "static/js/2.ab1b1fbf.chunk.js": "/Rosetta-app/static/js/2.ab1b1fbf.chunk.js",
-    "static/js/2.ab1b1fbf.chunk.js.map": "/Rosetta-app/static/js/2.ab1b1fbf.chunk.js.map",
-    "static/js/3.dee7d1d5.chunk.js": "/Rosetta-app/static/js/3.dee7d1d5.chunk.js",
-    "static/js/3.dee7d1d5.chunk.js.map": "/Rosetta-app/static/js/3.dee7d1d5.chunk.js.map",
+    "main.css": "/Rosetta-app/static/css/main.d90206dd.chunk.css",
+    "main.js": "/Rosetta-app/static/js/main.64fed894.chunk.js",
+    "main.js.map": "/Rosetta-app/static/js/main.64fed894.chunk.js.map",
+    "runtime-main.js": "/Rosetta-app/static/js/runtime-main.4aa03c26.js",
+    "runtime-main.js.map": "/Rosetta-app/static/js/runtime-main.4aa03c26.js.map",
+    "static/js/2.6625ad56.chunk.js": "/Rosetta-app/static/js/2.6625ad56.chunk.js",
+    "static/js/2.6625ad56.chunk.js.map": "/Rosetta-app/static/js/2.6625ad56.chunk.js.map",
+    "static/js/3.5f530cd4.chunk.js": "/Rosetta-app/static/js/3.5f530cd4.chunk.js",
+    "static/js/3.5f530cd4.chunk.js.map": "/Rosetta-app/static/js/3.5f530cd4.chunk.js.map",
     "index.html": "/Rosetta-app/index.html",
-    "static/css/main.34cdefb1.chunk.css.map": "/Rosetta-app/static/css/main.34cdefb1.chunk.css.map",
-    "static/js/2.ab1b1fbf.chunk.js.LICENSE.txt": "/Rosetta-app/static/js/2.ab1b1fbf.chunk.js.LICENSE.txt",
+    "static/css/main.d90206dd.chunk.css.map": "/Rosetta-app/static/css/main.d90206dd.chunk.css.map",
+    "static/js/2.6625ad56.chunk.js.LICENSE.txt": "/Rosetta-app/static/js/2.6625ad56.chunk.js.LICENSE.txt",
     "static/media/english.css": "/Rosetta-app/static/media/english.4a2ece43.jpg",
     "static/media/japanese.css": "/Rosetta-app/static/media/japanese.965323c5.jpg",
     "static/media/spanish.css": "/Rosetta-app/static/media/spanish.765a8b81.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.918bd2d3.js",
-    "static/js/2.ab1b1fbf.chunk.js",
-    "static/css/main.34cdefb1.chunk.css",
-    "static/js/main.ee0380cf.chunk.js"
+    "static/js/runtime-main.4aa03c26.js",
+    "static/js/2.6625ad56.chunk.js",
+    "static/css/main.d90206dd.chunk.css",
+    "static/js/main.64fed894.chunk.js"
   ]
 }
