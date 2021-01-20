@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Rosetta-app/static/css/main.d90206dd.chunk.css",
-    "main.js": "/Rosetta-app/static/js/main.64fed894.chunk.js",
-    "main.js.map": "/Rosetta-app/static/js/main.64fed894.chunk.js.map",
+    "main.js": "/Rosetta-app/static/js/main.c525fbba.chunk.js",
+    "main.js.map": "/Rosetta-app/static/js/main.c525fbba.chunk.js.map",
     "runtime-main.js": "/Rosetta-app/static/js/runtime-main.4aa03c26.js",
     "runtime-main.js.map": "/Rosetta-app/static/js/runtime-main.4aa03c26.js.map",
     "static/js/2.6625ad56.chunk.js": "/Rosetta-app/static/js/2.6625ad56.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.4aa03c26.js",
     "static/js/2.6625ad56.chunk.js",
     "static/css/main.d90206dd.chunk.css",
-    "static/js/main.64fed894.chunk.js"
+    "static/js/main.c525fbba.chunk.js"
   ]
 }
