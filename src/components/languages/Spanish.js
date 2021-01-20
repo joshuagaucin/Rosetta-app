@@ -10,8 +10,8 @@ class Spanish extends React.Component {
 
         <p className="intro">
           Mi nombre es Joshua Gaucin, soy un ingeniero de softwares apasionado
-          de los idiomas, ya sean de computadora o humanos. Trabajar para
-          Rosetta Stone sería un sueño hecho realidad.
+          de los idiomas, ya sean de computadora o humanos. Pon a prueba tus
+          habilidades en inglés, Japonés, español y árabe..
         </p>
         <p>Por favor disfruta este divertido cuestionario</p>
         <SpanishQuestions />

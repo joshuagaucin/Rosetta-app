@@ -10,8 +10,8 @@ class English extends React.Component {
 
             <p className="intro">
               My name is Joshua Gaucin, I am a Software Developer with a passion
-              for languages, be it human or computer. Working as an engineer for
-              Rosetta Stone would be a dream come true!
+              for languages, be it human or computer. Test your skills in English, 
+              Japanese, Spanish, and Arabic. 
             </p>
             <p>Please enjoy this fun quiz!</p>
             <EnglishQuestions />
